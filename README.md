@@ -2,10 +2,10 @@
 
 
 # TekitouCityGenerator
+“K“–‚ÈŠX•À‚İƒWƒFƒlƒŒ[ƒ^<br>
 
 <img src="http://many.chu.jp/Unity/TekitouCityGenerator/banner.gif" alt="ScreenShot">
 
-TekitouCityGenerator / “K“–‚ÈŠX•À‚İƒWƒFƒlƒŒ[ƒ^<br>
 Copyright(C)[Maruchu](http://maruchu.nobody.jp/ "Maruchu") 2015
 
 
@@ -26,9 +26,9 @@ TekitouCityGenerator ‚ÌƒtƒHƒ‹ƒ_‚ÉƒTƒ“ƒvƒ‹‚ÌƒV[ƒ“‚ª“ü‚Á‚Ä‚¢‚é‚Ì‚ÅŠJ‚¢‚ÄÀs‚µ‚Ä‚
     Sample3.scene@F@ˆÃˆÅ
 
 <br>
-Ú‚µ‚¢g‚¢•û‚âŠeƒXƒNƒŠƒvƒg‚Ì Inspector ‚Ì’†g‚É‚Â‚¢‚Ä‚Í ‚±‚¿‚ç‚Ìƒy[ƒW‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B<br>
-[README](http://many.chu.jp/Unity/TekitouCityGenerator/ReadMe/ "README")
+Ú‚µ‚¢g‚¢•û‚âŠeƒXƒNƒŠƒvƒg‚Ì Inspector ‚Ì’†g‚É‚Â‚¢‚Ä‚Í«‚Ìƒy[ƒW‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B<br>
+[README](http://many.chu.jp/Unity/TekitouCityGenerator/ReadMe/)
 
 
 ## WebƒTƒCƒg
-[TekitouCityGenerator](http://many.chu.jp/Unity/TekitouCityGenerator/ "TekitouCityGenerator")
+[UnityTIPS TekitouCityGenerator](http://many.chu.jp/Unity/TekitouCityGenerator/)
