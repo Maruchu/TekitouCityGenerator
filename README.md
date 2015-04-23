@@ -1,6 +1,12 @@
+English / [Japanese](https://github.com/Maruchu/TekitouCityGenerator/blob/master/README.jp.md)
+
+
 # TekitouCityGenerator
 
+<img src="http://many.chu.jp/Unity/TekitouCityGenerator/banner.gif" alt="ScreenShot">
+
 Copyright(C)[Maruchu](http://maruchu.nobody.jp/ "Maruchu") 2015
+
 
 ## Note
 This unity project for Unity 5.0.1 over.
