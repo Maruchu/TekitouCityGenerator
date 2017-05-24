@@ -12,11 +12,9 @@ using System.Collections;
 
 
 
-/*
-	<summary>
-	適当な街並みを作成するクラス
-	</summary>
- */
+///	<summary>
+///	適当な街並みを作成するクラス
+///	</summary>
 public class TekitouCityGenerator : MonoBehaviour {
 
 
@@ -40,11 +38,9 @@ public class TekitouCityGenerator : MonoBehaviour {
 
 
 
-	/*
-		<summary>
-		初期化時
-		</summary>
-	 */
+	///	<summary>
+	///	初期化時
+	///	</summary>
 	private	void Start() {
 		//フィールド作成
 		CreateObject_Field();
@@ -59,11 +55,9 @@ public class TekitouCityGenerator : MonoBehaviour {
 
 
 
-	/*
-		<summary>
-		フィールドを作成
-		</summary>
-	 */
+	///	<summary>
+	///	フィールドを作成
+	///	</summary>
 	private	void CreateObject_Field() {
 		//無ければ無視
 		if( null==fieldObject) {
@@ -77,11 +71,9 @@ public class TekitouCityGenerator : MonoBehaviour {
 		temp.transform.parent		= transform;
 	}
 
-	/*
-		<summary>
-		ビルを作成
-		</summary>
-	 */
+	///	<summary>
+	///	ビルを作成
+	///	</summary>
 	private	void CreateObject_Building() {
 		//無ければ無視
 		if( (null==buildingObject) || (buildingObject.Length <= 0)) {

@@ -12,11 +12,9 @@ using System.Collections;
 
 
 
-/*
-	<summary>
-	常に任意の回転を加えるクラス
-	</summary>
- */
+///	<summary>
+///	常に任意の回転を加えるクラス
+///	</summary>
 public class AddRotation : MonoBehaviour {
 
 
@@ -26,21 +24,17 @@ public class AddRotation : MonoBehaviour {
 
 
 
-	/*
-		<summary>
-		初期化時
-		</summary>
-	 */
+	///	<summary>
+	///	初期化時
+	///	</summary>
 	private	void Start() {
 		//角度を取得
 		rotationNow		= transform.eulerAngles;
 	}
 
-	/*
-		<summary>
-		実行時
-		</summary>
-	 */
+	///	<summary>
+	///	毎フレーム呼び出される関数
+	///	</summary>
 	private	void Update() {
 		//経過時間分の回転を加える
 		rotationNow		+= (rotationSpeedPerSecond	*Time.deltaTime);
